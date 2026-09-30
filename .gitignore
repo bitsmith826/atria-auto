@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+empas.txt
+keys.txt
+result.txt
+*.log
+KAMUS_SESSION.md
+KAMUS_MEMORY.md
+LANJUTAN.txt
